@@ -131,10 +131,10 @@ Hi! I'm **Mrinmoy Samanta** – a passionate software engineer and system design
 
 Let’s connect and grow together:
 
-- 💼 **LinkedIn:** [linkedin.com/in/mrinmoy-samanta](https://linkedin.com/in/mrinmoy-samanta)
+- 💼 **LinkedIn:** [linkedin.com/in/mrinmoy-samanta]([https://linkedin.com/in/mrinmoy-samanta](https://www.linkedin.com/in/mrinmoy-samanta-b5b2172b2/)
 - 💻 **GitHub:** [github.com/Me-Mrinmoy](https://github.com/Me-Mrinmoy)
-- 🐦 **Twitter/X:** [@Me_Mrinmoy](https://twitter.com/Me_Mrinmoy) *(optional)*
-- 📫 **Email:** mrinmoysamantamrinmoysamanta.@gmail.com *(optional)*
+- 🐦 **Twitter/X:** [@Me_Mrinmoy](https://x.com/SamantaMri43128)
+- 📫 **Email:** mrinmoysamantamrinmoysamanta.@gmail.com
 
 > 📢 Feel free to reach out for **collaboration**, **feedback**, or **mentorship** on system design, backend development, or open-source contributions.
 
